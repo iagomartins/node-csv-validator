@@ -1,0 +1,27 @@
+{
+  "name": "teste-vaga-fullstack",
+  "version": "1.0.0",
+  "description": "Teste dev fullstack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-project"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iagomartins/node-js-fullstack-role-test.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Iago Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iagomartins/node-js-fullstack-role-test/issues"
+  },
+  "homepage": "https://github.com/iagomartins/node-js-fullstack-role-test#readme",
+  "dependencies": {
+    "csv-generate": "^4.4.1",
+    "csv-parser": "^3.0.0",
+    "csv-stringify": "^6.5.0"
+  }
+}
